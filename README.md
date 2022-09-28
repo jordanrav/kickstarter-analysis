@@ -24,10 +24,10 @@ the two outcomes that can be drawn from this chart are
 2. December is the worst month to launch a theater based kickstarter
 
 ### What can you conclude about the Outcomes based on Goals?
-I can conclude from the Outcomes based on goals that the cheaper the goal is, the more likely that it will be successful.
+I can conclude from the Outcomes based on Goals that the cheaper the goal is, the more likely that it will be successful.
 
 ### What are some limitations of this dataset?
-one limitation of this data set is that I believe there can be even more factors that can be analyzed. for example, one factor that could be included is how many clicks does a kickstarter have. Another Factor could be how many incentives the kickstarter has. 
+One limitation of this data set is that I believe there can be even more factors that can be analyzed. For example, one factor that could be included is “how many clicks does a kick starter have?” Another factor could be “how many incentives the kick starter has?”
 
 ### What are some other possible tables and/or graphs that we could create?
-a table or graph that would be interesting to create is whether or not having a shorter deadline leads to a kickstarter being more likely to be successful.  
+A table or graph that would be interesting to create is whether or not having a shorter deadline leads to a kick starter being more likely to be successful.
